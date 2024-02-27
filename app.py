@@ -1,15 +1,14 @@
 #############################################################
 #### Written By: SATYAKI DE                              ####
 #### Written On: 17-Dec-2023                             ####
-#### Modified On 31-Dec-2023                             ####
+#### Modified On 26-Feb-2024                             ####
 ####                                                     ####
 #### Objective: This is the main calling                 ####
 #### python script that will invoke the                  ####
 #### main class, which will contextualize the source     ####
 #### files & then read the data into pandas dataframe,   ####
-#### and then dynamically create the SQL & execute it.   ####
-#### And, then fetch the data from the sources based on  ####
-#### the query generated dynamically.                    ####
+#### and then dynamically create the Streamlit-app       ####
+#### based Dashboard, which will show all the KPIs.      ####
 ####                                                     ####
 #############################################################
 
