@@ -75,6 +75,6 @@ pip install streamlit-echarts==0.4.0
 
 - To view the complete demo with sound, check out our [YouTube Page](https://youtu.be/-nr6HX1rYf4).
 - To view on Python, check out the [Python Page](https://docs.python.org/3/).
-- To view more on the Ably, check out this [OpenAI Official Page](https://ably.com/docs/getting-started/quickstart?lang=python).
-- To view more on the Plotly, check out this [SQLAlchemy Official Page](https://plotly.com/python-api-reference/).
-- To view more on the Streamlit, check out this [Flask Official Page](https://docs.streamlit.io/).
+- To view more on the Ably, check out this [Ably Official Page](https://ably.com/docs/getting-started/quickstart?lang=python).
+- To view more on the Plotly, check out this [Plotly Official Page](https://plotly.com/python-api-reference/).
+- To view more on the Streamlit, check out this [Streamlit Official Page](https://docs.streamlit.io/).
